@@ -53,3 +53,14 @@ Joint Probability:
 **Random Variables:**
 <h4>Random variable is just a function that assigns a number to every outcome in our sample space.</h4>
 
+So now we have some number to work with.
+![](rand_var_ex.png)
+
+**Expected Value:**
+
+Formula: 
+Expected Value = Each outcome X Its probability, then add them up
+$E[X] = \sum_{i}x_i \cdot P(X=x_i)$
+
+![](expected_val_ex.png)
+As E[X] = 0 so it is a fair game.
